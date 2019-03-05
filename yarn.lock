@@ -1871,6 +1871,14 @@ broccoli-autoprefixer@^7.0.0:
     broccoli-persistent-filter "^1.1.6"
     postcss "^7.0.2"
 
+broccoli-autoprefixer@sindresorhus/broccoli-autoprefixer#master:
+  version "7.1.0"
+  resolved "https://codeload.github.com/sindresorhus/broccoli-autoprefixer/tar.gz/c6a9e354e9e1084bf0e64f904cd8690069b4976c"
+  dependencies:
+    autoprefixer "^9.0.2"
+    broccoli-persistent-filter "^1.1.6"
+    postcss "^7.0.2"
+
 broccoli-babel-transpiler@^6.5.0:
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/broccoli-babel-transpiler/-/broccoli-babel-transpiler-6.5.1.tgz#a4afc8d3b59b441518eb9a07bd44149476e30738"
